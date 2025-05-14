@@ -10,20 +10,26 @@ Proyek ini adalah simulasi halaman login Facebook menggunakan Flask. Tujuannya a
 • Pengalihan halaman & peringatan edukatif
 
 
-# Clone repo
+# Clone repo:
+
 git clone https://github.com/MR-4WP/Xphis.git
 
-# Mv Directory
+# Directory:
+
 cd Xphis
 
-# Ubah permission agar dapat dijalankan
+# Permission:
+
 chmod +x fb.py
 
-# Install Python
+# Install Python:
+
 apt install python
 
-# Install Flask
+# Install Flask:
+
 pip install flask
 
-# Jalankan aplikasi
+# Jalankan Program:
+
 python fb.py
