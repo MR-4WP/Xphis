@@ -1,7 +1,8 @@
 Simulasi Login Facebook (Edukasi Phishing)
 Proyek ini adalah simulasi halaman login Facebook menggunakan Flask. Tujuannya adalah untuk edukasi keamanan siber tentang risiko serangan phishing.
 
-Fitur:
+# Fitur:
+
 [1] Antarmuka mirip Facebook
 [2] menyimpan nama pengguna & kata sandi kelog.txt
 [3] Pengalihan halaman & peringatan edukatif
