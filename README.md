@@ -1,5 +1,5 @@
-Simulasi Login Facebook (Edukasi Phishing)
-Proyek ini adalah simulasi halaman login Facebook menggunakan Flask. Tujuannya adalah untuk edukasi keamanan siber tentang risiko serangan phishing.
+#XPHIS
+Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan menggunakan bahasa pemrograman Python. Tujuannya adalah untuk edukasi keamanan siber tentang risiko serangan phishing.
 
 # Fitur:
 
