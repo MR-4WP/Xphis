@@ -36,7 +36,7 @@ python fb.py
 
 # WARNING 
 PERINGATAN
-Program ini hanya untuk edukasi. Dilarang:
+Program ini hanya untuk edukasi atau pembelajaran. Dilarang:
 
 •  Menyalhgunakan untuk mencuri data
 
