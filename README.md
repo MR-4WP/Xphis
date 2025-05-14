@@ -3,11 +3,11 @@ Proyek ini adalah simulasi halaman login Facebook menggunakan Flask. Tujuannya a
 
 # Fitur:
 
-[1] Antarmuka mirip Facebook
+• Antarmuka mirip Facebook
 
-[2] menyimpan nama pengguna & kata sandi kelog.txt
+• menyimpan nama pengguna & kata sandi kelog.txt
 
-[3] Pengalihan halaman & peringatan edukatif
+• Pengalihan halaman & peringatan edukatif
 
 
 # Clone repo
