@@ -3,11 +3,11 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 
 # Fitur:
 
-• Antarmuka mirip Facebook
+•  Antarmuka mirip Facebook
 
-• Pengalihan halaman 
+•  Pengalihan halaman 
 
-• Menyimpan nama pengguna & kata sandi ke log.txt
+•  Menyimpan nama pengguna & kata sandi ke log.txt
 
 
 # Clone repo:
@@ -33,3 +33,16 @@ pip install flask
 # Jalankan Program:
 
 python fb.py
+
+# WARNING 
+PERINGATAN
+Program ini hanya untuk edukasi. Dilarang:
+
+•  Menyalhgunakan untuk mencuri data
+
+•  Kekuasaan di publik tanpa izin
+
+•  Menggunakan untuk aktivitas ilegal
+
+Gunakan secara etis dan bertanggung jawab.
+Saya tidak bertanggung jawab atas konservasi.
