@@ -4,7 +4,9 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 # Fitur:
 
 • Antarmuka mirip Facebook
+
 • Pengalihan halaman 
+
 • Menyimpan nama pengguna & kata sandi ke log.txt
 
 
