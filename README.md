@@ -21,22 +21,29 @@ __cd Xphis__
 
 # Permission:
 
+
 __chmod +x fb.py__
+
 
 # Install Python:
 
+
 __apt install python__
+
 
 # Install Flask:
 
+
 __pip install flask__
+
 
 # Jalankan Program:
 
+
 __python fb.py__
 
+
 # WARNING 
-__PERINGATAN__
 
 Program ini hanya untuk edukasi atau pembelajaran. Dilarang:
 
