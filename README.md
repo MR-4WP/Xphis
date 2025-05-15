@@ -14,9 +14,7 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 
 git clone https://github.com/MR-4WP/Xphis.git
 
-# Directory:
-
-cd Xphis
+__cd Xphis__
 
 # Permission:
 
