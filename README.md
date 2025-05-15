@@ -3,44 +3,44 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 
 # Fitur:
 
-•  Antarmuka mirip Facebook
+•  __Antarmuka mirip Facebook__
 
-•  Pengalihan halaman 
+•  __Pengalihan halaman__ 
 
-•  Menyimpan nama pengguna & kata sandi ke log.txt
+•  __Menyimpan nama pengguna & kata__ sandi ke log.txt
 
 
 # Clone repo:
 
-git clone https://github.com/MR-4WP/Xphis.git
+__git clone https://github.com/MR-4WP/Xphis.git__
 
 __cd Xphis__
 
 # Permission:
 
-chmod +x fb.py
+__chmod +x fb.py__
 
 # Install Python:
 
-apt install python
+__apt install python__
 
 # Install Flask:
 
-pip install flask
+__pip install flask__
 
 # Jalankan Program:
 
-python fb.py
+__python fb.py__
 
 # WARNING 
-PERINGATAN
+__PERINGATAN__
 Program ini hanya untuk edukasi atau pembelajaran. Dilarang:
 
-•  Menyalhgunakan untuk mencuri data
+•  __Menyalhgunakan untuk mencuri data__
 
-•  Kekuasaan di publik tanpa izin
+•  __Kekuasaan di publik tanpa izin__
 
-•  Menggunakan untuk aktivitas ilegal
+•  __Menggunakan untuk aktivitas ilegal__
 
 Gunakan secara etis dan bertanggung jawab.
 Saya tidak bertanggung jawab atas konservasi.
