@@ -7,7 +7,7 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 
 •  __Pengalihan halaman__ 
 
-•  __Menyimpan nama pengguna & kata__ sandi ke log.txt
+•  __Menyimpan nama pengguna & kata__ __sandi ke log.txt__
 
 
 # Clone repo:
@@ -32,7 +32,7 @@ __apt install python__
 
 
 # Install Flask:
-
+~~~
 
 __pip install flask__
 
