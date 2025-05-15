@@ -21,25 +21,21 @@ cd Xphis
 
 # Permission:
 ~~~
-
 chmod +x fb.py
 ~~~
 
 # Install Python:
 ~~~
-
 apt install python
 ~~~
 
 # Install Flask:
 ~~~
-
 pip install flask
 ~~~
 
 # Jalankan Program:
 ~~~
-
 python fb.py
 ~~~
 
