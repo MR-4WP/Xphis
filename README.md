@@ -11,11 +11,11 @@ Xphis adalah Simulasi Halaman Login Facebook (Edukasi Phishing). Dikembangkan me
 
 
 # Clone repo:
-
+~~~
 __git clone https://github.com/MR-4WP/Xphis.git__
 
 __cd Xphis__
-
+~~~
 
 
 
@@ -32,7 +32,7 @@ __apt install python__
 
 
 # Install Flask:
-~~~
+
 
 __pip install flask__
 
