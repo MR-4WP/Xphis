@@ -37,6 +37,7 @@ __python fb.py__
 
 # WARNING 
 __PERINGATAN__
+
 Program ini hanya untuk edukasi atau pembelajaran. Dilarang:
 
 •  __Menyalhgunakan untuk mencuri data__
